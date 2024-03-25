@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad Shazil Khan
-- 👀 I’m interested in Software Development and Data Engineering
+- 👀 I’m interested in Software Development and Data Engineering. I Love Content Creation and teaching students.
 - 🌱 I’m currently learning different sets of technologies to enhance my skills in both domains
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me MuhammadShazilKhan3@gmail.com
