@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad Shazil Khan
-- 👀 I’m interested in Software Development and Data Engineering. I Love Content Creation and teaching students.
+- 👀 I’m interested in Software Development, Machine Learning and everything in between. I Love Content Creation and teaching students.
 - 🖥️ currently contributing as a Growing Software Developer in startup.
 - 🌱 I’m continuously learning different sets of technologies to enhance my skills in multiple domains
 - 💞️ I’m looking to collaborate on different projects
